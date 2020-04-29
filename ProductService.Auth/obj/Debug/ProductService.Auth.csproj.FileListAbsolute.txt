@@ -1,0 +1,6 @@
+C:\Users\tshid\source\repos\WcfService1\ProductService.Auth\bin\Debug\ProductService.Auth.dll
+C:\Users\tshid\source\repos\WcfService1\ProductService.Auth\bin\Debug\ProductService.Auth.pdb
+C:\Users\tshid\source\repos\WcfService1\ProductService.Auth\obj\Debug\ProductService.Auth.csprojAssemblyReference.cache
+C:\Users\tshid\source\repos\WcfService1\ProductService.Auth\obj\Debug\ProductService.Auth.csproj.CoreCompileInputs.cache
+C:\Users\tshid\source\repos\WcfService1\ProductService.Auth\obj\Debug\ProductService.Auth.dll
+C:\Users\tshid\source\repos\WcfService1\ProductService.Auth\obj\Debug\ProductService.Auth.pdb
